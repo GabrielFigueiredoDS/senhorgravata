@@ -64,6 +64,14 @@ h1 {
   font-family: 'Open Sans', sans-serif;
 }
 
+.links p {
+  margin: 6px 0 14px 0;
+  font-size: 12px;
+  font-weight: bold;
+  color: #000;
+  text-align: center;
+}
+
 .links a:hover {
   background-color: #7a6448;
   color: #fff;
@@ -83,3 +91,4 @@ footer img {
   width: 18px;
   height: 18px;
 }
+
