@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: 'Verdana', sans-serif;
-  background-color: #fdf9f6;
+  background-color: #faf6f1;
   color: #333;
   display: flex;
   justify-content: center;
@@ -13,7 +13,7 @@ body {
   text-align: center;
   max-width: 400px;
   width: 90%;
-  background-color: #fff;
+  background-color: #ffffff; 
   padding-bottom: 30px;
   border-radius: 12px;
   box-shadow: 0 4px 10px rgba(0,0,0,0.05);
@@ -90,5 +90,3 @@ footer img {
   width: 18px;
   height: 18px;
 }
-
-
